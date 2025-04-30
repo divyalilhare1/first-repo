@@ -1,0 +1,38 @@
+nav{
+  background-color: white;
+  font-weight: bold;
+  font-size: 30px;
+  text-decoration: none;
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  margin: 100px;
+  }
+
+  nav li{
+    list-style: none;
+  }
+  .home{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgb(242, 208, 16);
+  }
+  .about{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgb(16, 242, 216);
+  }
+  .login{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgb(163, 16, 242);
+  }
+  .help{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgb(16, 242, 99);
+  }
